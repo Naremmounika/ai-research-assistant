@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+research.db
+
+data/vector_db/
+data/raw_documents/
+
+models/*.h5
