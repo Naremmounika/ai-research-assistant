@@ -19,6 +19,7 @@ chromadb
 sentence-transformers
 
 openai
+google-genai
 
 tensorflow
 
